@@ -7,3 +7,6 @@ npm i
 php artisan make:database
 php artisan migrate:fresh --seed
 php artisan serve
+
+After script/css changes:
+npm run development
