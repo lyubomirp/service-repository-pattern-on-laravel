@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+.main-container {
+    padding: 2em;
+    border: solid 1px black;
+    height: 100vh;
+}
